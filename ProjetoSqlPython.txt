@@ -1,0 +1,2 @@
+ProjetoSqlPython
+Projeto de api entre automação do python e o banco de dados no sql.
